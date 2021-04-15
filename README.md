@@ -7,12 +7,9 @@ I tend to write a lot of PHP Code so I usually contribure back to projects that 
 
 ## &#x1f4c8; My GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=donkidd&theme=dark">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkidd&hide=java,html,css&theme=dark">
-</a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=donkidd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donkidd&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
