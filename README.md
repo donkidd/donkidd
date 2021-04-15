@@ -5,7 +5,7 @@ I am a Quality Assurance Analyst by day, who was originally a developer and late
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donkidd>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donkidd&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=donkidd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
