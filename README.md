@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Don Kidd on donkidd
 
-I am a Quality Assurance Analyst by day, who was originally a developer and later in my career became a quality assurance guy, so I now I get to write code to help me find problems that exist in other peoples code.  
+I am a Quality Engineer by day, who was originally a developer and later in my career became a quality guy, so I now I get to write code to help me find problems that exist in other peoples code.  
 
 I tend to write a lot of PHP Code so I usually contribure back to projects that I can use in my PHP code.
 
