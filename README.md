@@ -2,14 +2,8 @@
 
 I am a Quality Engineer by day, who was originally a developer and later in my career became a quality guy, so I now I get to write code to help me find problems that exist in other peoples code.  
 
-I tend to write a lot of PHP Code so I usually contribure back to projects that I can use in my PHP code.
+I tend to write a lot of PHP Code so I usually contribure back to projects that I can use in my PHP code. I've also starting to dabble in some Java Scripting, so hopefully I'll be able to start contributing back to some JS projects in the future.
 
-
-## &#x1f4c8; My GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=donkidd&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donkidd&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
